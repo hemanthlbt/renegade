@@ -1,7 +1,7 @@
 void main() {
-  // this is a for loop test!!!
-print("This is also a new test!!!!");
+  for (var i =1; i <= 40; i++) {
+    print(i);
+  }
 }
-
 
 
